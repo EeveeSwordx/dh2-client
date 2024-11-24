@@ -21,7 +21,7 @@ Config.defaultserver = {
 	id: 'dragonheaven',
 	host: 'localhost',
 	port: 8000,
-	httpport: 80,
+	httpport: 8000,
 	altport: 80,
 	registered: true
 };
